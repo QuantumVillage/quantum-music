@@ -12,6 +12,9 @@ This is a collection of methods with code and compiled downloads for musicians t
 Currently this repo includes:
 
 * [qubitcrusher](./qubitcrusher) - a quantum based mod effect for the NTS-1 and other Logue-sdk synths from KORG.
+* [Quantum Midi](./q-midi/) - a quantum midi firmware for a Pi Pico that allows the user to do two things:
+  1. Generate notes from the current note played by passing that note through a quantum simulation
+  1. Generate quantum FM synth patches from a simulation, prepared for a Yamaha Reface DX
 
 TODO finish...
 
