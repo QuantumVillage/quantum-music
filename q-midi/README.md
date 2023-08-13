@@ -26,4 +26,4 @@ The wiring is really simple -
 
 Here's a picture of the setup used at DEF CON:
 
-![output_640x480.png](output_640x480.png)
+![output_1024x768.png](output_1024x768.png)
